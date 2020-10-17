@@ -29,3 +29,4 @@
 * 图床 [pic.blog233.com](https://pic.blog233.com)
 * 云盘 [pan.blog233.com](https://pan.blog233.com)
 * 云服务 [cloud.blog233.com](https://cloud.blog233.com)
+* 让我帮你搜索一下 [search.blog233.com](https://search.blog233.com)
