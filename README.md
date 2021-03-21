@@ -2,7 +2,7 @@
 
 ## 团队
 <img src="https://blog233-graphbed.oss-cn-hangzhou.aliyuncs.com/site-icon/blog233-icon.png" width="256px" height="256px">
-出于非营利目的组织的团队。于2020年8月17日正式建立。成员均为学生，有：Lujing，WangJack。由漉鲸和WangJack一同创建。
+<p>出于非营利目的组织的团队。于2020年8月17日正式建立。成员均为学生，有：Lujing，WangJack。由漉鲸和WangJack一同创建。</p>
 
 
 ## 成员
