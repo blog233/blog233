@@ -1,6 +1,7 @@
 # Blog233-Introduction
 
 ## 团队
+<img src="https://blog233-graphbed.oss-cn-hangzhou.aliyuncs.com/site-icon/blog233-icon.png" width="256px" height="256px">
 出于非营利目的组织的团队。于2020年8月17日正式建立。成员均为学生，有：Lujing，WangJack。由漉鲸和WangJack一同创建。
 
 
@@ -19,14 +20,15 @@
 
 ## 运营站点
 ### Lujing
-* 个人站点 [lujing233.top](https://lujing233.top)
+* 个人站点 [www.lj0.top](https://www.lj0.top)
 
 ### WangJack
-* 个人站点 [wangjack.xyz](https://wangjack.xyz)
+* 个人站点 [blog.wj0.top](https://blog.wj0.top)
 
 ### Blog233
 * 主站 [www.blog233.com](https://www.blog233.com)
 * 图床 [pic.blog233.com](https://pic.blog233.com)
-* 云盘 [pan.blog233.com](https://pan.blog233.com)
+* 云盘 [drive.blog233.com](https://drive.blog233.com)
 * 云服务 [cloud.blog233.com](https://cloud.blog233.com)
+* 网址缩短 [go.blog233.com](https://go.blog233.com)
 * 让我帮你搜索一下 [search.blog233.com](https://search.blog233.com)
