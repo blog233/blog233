@@ -1,4 +1,4 @@
-# Blog233-Introduction
+# Blog233
 
 ## 团队
 <img src="https://blog233-graphbed.oss-cn-hangzhou.aliyuncs.com/site-icon/blog233-icon.png" width="256px" height="256px">
